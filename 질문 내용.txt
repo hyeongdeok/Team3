@@ -1,0 +1,1 @@
+에셋생성일(crt_ymd), 생성일(created), 수정일(updated)  간의 구분 기준
